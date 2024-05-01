@@ -1,0 +1,7 @@
+[[source]]
+url = "https://github.com/Traders-Rescue/tr-backend"
+verify_ssl = true
+name = "tr-backend"
+ 
+[requires]
+python_version = "3.9"
